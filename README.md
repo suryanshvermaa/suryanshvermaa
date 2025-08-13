@@ -74,6 +74,7 @@ Currently exploring **Kubernetes**, **Cloud-Native Apps**, and working with **ME
 
 - ⚙️ **Two-Tier Node.js & MongoDB App Deployment**  
   Scalable deployment with Docker, Kubeadm, and AWS EKS, handling 10,000+ concurrent users with load balancing and fault tolerance.
+  Implemented CI/CD Pipeline using Jenkins and ARGO CD for gitops(kubernetes cluster syncs with github)
 
 ---
 
