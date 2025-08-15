@@ -8,18 +8,19 @@
   <img src="./assets/suryansh.svg" alt="Typing Animation" />
 </p>
 
-## 💫 About Me  
+## 👋 About Me
+
 <p align="center">
-I'm a developer who transforms caffeine into clean, scalable code. I specialize in building robust applications with the MERN stack and automating deployments with DevOps practices. My passion lies in creating efficient, high-performance software and exploring the endless possibilities of cloud-native technologies.
+  I'm a passionate developer transforming ideas into robust, scalable code. With a strong focus on the MERN stack and expertise in DevOps practices, I build efficient, high-performance software from concept to production. I'm driven by elegant problem-solving and exploring the endless possibilities of cloud-native technologies.
 </p>
 
-- 🌱 **Currently Exploring**: Golang, Architectures, and Advanced Cloud Automation.  
-- 💻 **Core Focus**: Building and deploying full-stack applications from concept to production.  
-- ⚡ **Passionate About**: Open-source collaboration, elegant problem-solving, and system design.  
-
+- 🔭 **Currently Exploring:** Golang, Microservice Architectures, and Advanced Cloud Automation.
+- 🌱 **Learning & Growing:** Continuously expanding my knowledge in distributed systems and cloud-native patterns.
+- 💡 **Passionate About:** Open-source collaboration, elegant system design, and creating impactful solutions.
+- 🤝 **Open to:** Collaborations on exciting projects and exploring new opportunities.
 ---
 
-## 🌐 Socials  
+## 🔗 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/suryansh-verma-54a88528a" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
@@ -27,6 +28,12 @@ I'm a developer who transforms caffeine into clean, scalable code. I specialize 
   &nbsp;&nbsp;
   <a href="https://instagram.com/suryanshverma_1" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
+  </a>
+  <a href="https://www.npmjs.com/~suryanshverma" target="_blank">
+    <img src="https://skillicons.dev/icons?i=npm" alt="NPM Registry"/>
+  </a>
+   <a href="https://github.com/suryanshvermaa/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="facebook"/>
   </a>
 </p>
 
