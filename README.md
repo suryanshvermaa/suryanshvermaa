@@ -3,6 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Suryansh%20Verma&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35" alt="Header"/>
 </p>
 
+<!-- Typewriter Animation -->
+<p align="center">
+  <img src="./assets/suryansh.svg" alt="Typing Animation" />
+</p>
 
 ## 💫 About Me  
 <p align="center">
