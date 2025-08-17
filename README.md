@@ -110,14 +110,6 @@ A CLI tool to quickly scaffold production-ready Express.js applications with mul
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryanshvermaa&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-## 💻 My LeetCode Stats
-<p align="center">
-<a href="https://leetcode.com/suryanshverma_1/" target="_blank">
-<img src="https://leetcard.jacoblin.cool/suryanshverma_1?theme=dark&font=Space%20Grotesk" alt="LeetCode Stats"/>
-</a>
-</p>
-
-
 <!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="Footer"/>
