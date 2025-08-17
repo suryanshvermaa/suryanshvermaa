@@ -1,8 +1,3 @@
-<!-- Typewriter Animation -->
-<p align="center">
-  <img src="./assets/suryansh.svg" alt="Typing Animation" />
-</p>
-
 ## 👋 About Me
 
 <p align="center">
