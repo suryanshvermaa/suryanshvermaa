@@ -42,7 +42,7 @@
 ## 🚀 My Tech Stack  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,postgresql,redis,kafka,graphql,prisma,docker,kubernetes,aws,bash,go,java,c,cpp,figma,firebase,jenkins,nginx,vercel,github,gitlab,linux&perline=15" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,postgresql,redis,kafka,graphql,prisma,docker,kubernetes,aws,bash,go,java,c,cpp,figma,firebase,jenkins,nginx,vercel,github,gitlab,linux,supabase,vscode,vite,cmake,html,css&perline=15" />
   </a>
 </p>
 
