@@ -3,7 +3,9 @@
 <p align="center">
   I'm a passionate developer transforming ideas into robust, scalable code. With a strong focus on the MERN stack and expertise in DevOps practices, I build efficient, high-performance software from concept to production. I'm driven by elegant problem-solving and exploring the endless possibilities of cloud-native technologies.
 </p>
+
 ---
+
 ## 📊 My GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suryanshvermaa&theme=tokyonight&show_icons=true&hide_border=true" height="160" alt="GitHub Stats"/>
@@ -12,15 +14,19 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryanshvermaa&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
+
 ---
+
 ## 🚀 My Tech Stack  
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,postgresql,redis,kafka,graphql,prisma,docker,kubernetes,aws,bash,go,java,c,cpp,figma,firebase,jenkins,nginx,vercel,github,gitlab,linux,supabase,vscode,vite,cmake,html,css,npm,yarn,pnpm&perline=15" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux,nodejs,express,mongodb,postgresql,redis,kafka,graphql,prisma,docker,kubernetes,aws,bash,go,java,c,cpp,figma,firebase,jenkins,nginx,github,gitlab,linux,supabase&perline=15" />
   </a>
 </p>
 
 ---
+
 ## 📌 Pinned Projects  
 
 <table align="center" width="100%">
