@@ -1,8 +1,3 @@
-<!-- Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Suryansh%20Verma&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35" alt="Header"/>
-</p>
-
 <!-- Typewriter Animation -->
 <p align="center">
   <img src="./assets/suryansh.svg" alt="Typing Animation" />
@@ -108,9 +103,4 @@ A CLI tool to quickly scaffold production-ready Express.js applications with mul
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryanshvermaa&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="Footer"/>
 </p>
