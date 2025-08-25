@@ -1,8 +1,8 @@
 ## 👋 About Me
 
-<p align="center">
-  I'm a passionate developer transforming ideas into robust, scalable code. With a strong focus on the MERN stack and expertise in DevOps practices, I build efficient, high-performance software from concept to production. I'm driven by elegant problem-solving and exploring the endless possibilities of cloud-native technologies.
-</p>
+- 🔭 ***Currently Exploring:*** Golang, Microservice Architecture.
+- 💡 ***Passionate About:*** Open-source collaboration, elegant system design, and creating impactful solutions.
+- 🤝 ***Open to:*** Collaborations on exciting projects and exploring new opportunities.
 
 ---
 
@@ -12,8 +12,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshvermaa&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="160" alt="Top Languages"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryanshvermaa&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=suryanshvermaa&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
+
 
 ---
 
