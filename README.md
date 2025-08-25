@@ -8,30 +8,6 @@
 <p align="center">
   I'm a passionate developer transforming ideas into robust, scalable code. With a strong focus on the MERN stack and expertise in DevOps practices, I build efficient, high-performance software from concept to production. I'm driven by elegant problem-solving and exploring the endless possibilities of cloud-native technologies.
 </p>
-
-- 🔭 **Currently Exploring:** Golang, Microservice Architectures, and Advanced Cloud Automation.
-- 🌱 **Learning & Growing:** Continuously expanding my knowledge in distributed systems and cloud-native patterns.
-- 💡 **Passionate About:** Open-source collaboration, elegant system design, and creating impactful solutions.
-- 🤝 **Open to:** Collaborations on exciting projects and exploring new opportunities.
----
-
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/suryansh-verma-54a88528a" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/suryanshverma_1" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
-  </a>
-  <a href="https://www.npmjs.com/~suryanshverma" target="_blank">
-    <img src="https://skillicons.dev/icons?i=npm" alt="NPM Registry"/>
-  </a>
-   <a href="https://github.com/suryanshvermaa/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="facebook"/>
-  </a>
-</p>
-
 ---
 
 ## 🚀 My Tech Stack  
@@ -42,6 +18,15 @@
 </p>
 
 ---
+
+## 📊 My GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suryanshvermaa&theme=tokyonight&show_icons=true&hide_border=true" height="160" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshvermaa&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="160" alt="Top Languages"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryanshvermaa&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 ## 📌 Pinned Projects  
 
@@ -95,12 +80,3 @@ A CLI tool to quickly scaffold production-ready Express.js applications with mul
 </table>
 
 ---
-
-## 📊 My GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suryanshvermaa&theme=tokyonight&show_icons=true&hide_border=true" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshvermaa&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="160" alt="Top Languages"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryanshvermaa&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
