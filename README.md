@@ -6,6 +6,16 @@
 
 ---
 
+## 🚀 My Tech Stack  
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux,nodejs,express,mongodb,postgresql,redis,kafka,graphql,prisma,docker,kubernetes,aws,bash,go,java,c,cpp,figma,firebase,jenkins,nginx,github,gitlab,linux,supabase&perline=15" />
+  </a>
+</p>
+
+---
+
 ## 📊 My GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suryanshvermaa&theme=tokyonight&show_icons=true&hide_border=true" height="160" alt="GitHub Stats"/>
@@ -13,17 +23,6 @@
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=suryanshvermaa&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-
----
-
-## 🚀 My Tech Stack  
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux,nodejs,express,mongodb,postgresql,redis,kafka,graphql,prisma,docker,kubernetes,aws,bash,go,java,c,cpp,figma,firebase,jenkins,nginx,github,gitlab,linux,supabase&perline=15" />
-  </a>
 </p>
 
 ---
