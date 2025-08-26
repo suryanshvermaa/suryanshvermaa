@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-- 🔭 ***Currently Exploring:*** Golang, Microservice Architecture.
+- 🔭 ***Currently Exploring:*** Golang, Microservice Architecture and Generative AI.
 - 💡 ***Passionate About:*** Open-source collaboration, elegant system design, and creating impactful solutions.
 - 🤝 ***Open to:*** Collaborations on exciting projects and exploring new opportunities.
 
