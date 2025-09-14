@@ -1,4 +1,5 @@
 ## 👋 About Me
+Backend & Cloud Developer passionate about building scalable systems, microservices, and DevOps solutions with Node.js, Golang, Docker, Kubernetes, and AWS.
 
 - 🔭 ***Currently Exploring:*** Golang, Microservice Architecture and Generative AI.
 - 💡 ***Passionate About:*** Open-source collaboration, elegant system design, and creating impactful solutions.
