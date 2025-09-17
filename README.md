@@ -6,6 +6,12 @@ Backend & Cloud Developer passionate about building scalable systems, microservi
 - 🤝 ***Open to:*** Collaborations on exciting projects and exploring new opportunities.
 
 ---
+## 🎓 Education  
+
+- **B.Tech in Electrical Engineering** — NIT Patna (2023–2027) | *CGPA: 8.26*  
+- **Class XII (UP Board)** — 82.8%  
+- **Class X (UP Board)** — 86.17%
+---
 
 ## 🚀 My Tech Stack  
 
@@ -21,6 +27,12 @@ Backend & Cloud Developer passionate about building scalable systems, microservi
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=suryanshvermaa&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+## 🏅 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=suryanshvermaa&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true" />
 </p>
 
 ---
@@ -81,7 +93,7 @@ A **scalable Node.js + MongoDB service** deployed using Kubernetes and GitOps.
 
 ---
 
-### 🔧 [create-express-mongo-prod](https://github.com/suryanshvermaa/create-express-mongo-prod)  
+### 🔧 [create-express-mongo-prod](https://github.com/suryanshvermaa/create-express-mongo-prod)
 A CLI tool to scaffold **production-ready Express.js apps** with modern tooling.  
 
 - 📦 Published on NPM → **300+ downloads**  
