@@ -25,13 +25,18 @@ Backend & Cloud Developer passionate about building scalable systems, microservi
 
 ## 📊 My GitHub Stats 
 
-<div style="display: flex; justify-content: center;flex-wrap: wrap;gap: 5px;">
-   <div style="width: 100%; text-align: center;display: flex;justify-content: center;">
-    <img src="https://streak-stats.demolab.com/?user=suryanshvermaa&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-   </div>
-    <img src="https://github-readme-stats.vercel.app/api?username=suryanshvermaa&theme=tokyonight&show_icons=true&hide_border=true" height="160" alt="GitHub Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshvermaa&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="160" alt="Top Languages"/>
-</div>
+<!-- First card centered -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=suryanshvermaa&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<!-- Two cards centered side-by-side -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suryanshvermaa&theme=tokyonight&show_icons=true&hide_border=true" height="160" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshvermaa&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="160" alt="Top Languages"/>
+</p>
+
 
 
 ## 🏅 GitHub Trophies  
