@@ -130,10 +130,10 @@ A lightweight **JWT authentication middleware** for Express.js apps.
 ---
 ## 🏆 Achievements & Certifications  
 
-- 🟢 **700+ GitHub contributions** and active open-source participation  
-- 🔢 Solved **250+ problems** on [LeetCode](https://leetcode.com/u/suryanshverma_1/)  
-- 🎖️ Ranked in the **Top 5%** of NPTEL – *Joy of Computing with Python (IIT Madras)*  
-- 📜 Built & published **2 NPM packages** (`create-express-mongo-prod`, `jwt-auth-pack`) with 300+ downloads  
-- 🚀 Organized and contributed to large-scale events like **ByteVerse Hackathon (1000+ participants)**  
+- 💻 **700+ contributions** on GitHub and active in the open-source community.
+- 🧠 Solved **250+ problems** on [LeetCode](https://leetcode.com/u/suryanshverma_1/) with a focus on algorithms and data structures.
+- 📦 Authored and published **2 NPM packages** with over **300+ downloads**.
+- 🥇 Ranked in the **Top 5%** in NPTEL's *Joy of Computing with Python (IIT Madras)*.
+- 🚀 Co-organized the **ByteVerse Hackathon**, scaling to over **1000+ participants**.
 
 ---
