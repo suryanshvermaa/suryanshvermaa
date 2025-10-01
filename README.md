@@ -17,7 +17,7 @@ Backend & Cloud Developer passionate about building scalable systems, microservi
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux,nodejs,express,mongodb,postgresql,redis,kafka,graphql,prisma,docker,kubernetes,aws,bash,go,java,c,cpp,figma,firebase,jenkins,nginx,github,gitlab,linux,supabase&perline=15" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux,nodejs,express,mongodb,postgresql,redis,kafka,graphql,prisma,docker,kubernetes,aws,bash,go,java,c,cpp,figma,firebase,jenkins,nginx,github,postman,linux,supabase&perline=15" />
   </a>
 </p>
 
