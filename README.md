@@ -34,17 +34,17 @@ Backend & Cloud Developer passionate about building scalable systems, microservi
   <img src="https://github-readme-stats.vercel.app/api?username=suryanshvermaa&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="160" alt="GitHub Stats"/>
 </p>
 
-<!-- GitHub Metrics -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suryanshvermaa&theme=tokyonight" alt="GitHub Profile Summary"/>
-</p>
-
 <!-- Productivity Stats -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suryanshvermaa&theme=tokyonight" height="180" alt="Most Commit Language"/>
   &nbsp;&nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suryanshvermaa&theme=tokyonight" height="180" alt="Repos per Language"/>
-</p> 
+</p>
+
+<!-- GitHub Metrics -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suryanshvermaa&theme=tokyonight" alt="GitHub Profile Summary"/>
+</p>
 
 
 ## 🏅 GitHub Trophies  
