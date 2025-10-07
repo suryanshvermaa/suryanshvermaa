@@ -30,12 +30,22 @@ Backend & Cloud Developer passionate about building scalable systems, microservi
   <img src="https://streak-stats.demolab.com/?user=suryanshvermaa&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<!-- Two cards centered side-by-side -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suryanshvermaa&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="160" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshvermaa&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&count_private=true&include_all_commits=true" height="160" alt="Top Languages"/>
 </p>
+
+<!-- GitHub Metrics -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suryanshvermaa&theme=tokyonight" alt="GitHub Profile Summary"/>
+</p>
+
+<!-- Productivity Stats -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suryanshvermaa&theme=tokyonight" height="180" alt="Most Commit Language"/>
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suryanshvermaa&theme=tokyonight" height="180" alt="Repos per Language"/>
+</p> 
+
 
 ## 🏅 GitHub Trophies  
 
