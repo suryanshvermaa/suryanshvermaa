@@ -32,12 +32,10 @@ Backend & Cloud Developer passionate about building scalable systems, microservi
 
 <!-- Two cards centered side-by-side -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suryanshvermaa&theme=tokyonight&show_icons=true&hide_border=true" height="160" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=suryanshvermaa&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="160" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshvermaa&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="160" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshvermaa&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&count_private=true&include_all_commits=true" height="160" alt="Top Languages"/>
 </p>
-
-
 
 ## 🏅 GitHub Trophies  
 
