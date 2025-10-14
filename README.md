@@ -27,36 +27,30 @@ Backend & Cloud Developer passionate about building scalable systems, microservi
 
 <!-- First card centered -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=suryanshvermaa&theme=tokyonight&hide_border=true#gh-dark-mode-only" alt="GitHub Streak"/>
-  <img src="https://streak-stats.demolab.com/?user=suryanshvermaa&theme=default&hide_border=true#gh-light-mode-only" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=suryanshvermaa&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suryanshvermaa&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true#gh-dark-mode-only" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=suryanshvermaa&theme=default&show_icons=true&hide_border=true&count_private=true&include_all_commits=true#gh-light-mode-only" height="160" alt="GitHub Stats"/>
-</p>
-
-<!-- Productivity Stats -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suryanshvermaa&theme=tokyonight#gh-dark-mode-only" height="180" alt="Most Commit Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suryanshvermaa&theme=default#gh-light-mode-only" height="180" alt="Most Commit Language"/>
-  &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suryanshvermaa&theme=tokyonight#gh-dark-mode-only" height="180" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suryanshvermaa&theme=default#gh-light-mode-only" height="180" alt="Repos per Language"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=suryanshvermaa&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="160" alt="GitHub Stats"/>
 </p>
 
 <!-- GitHub Metrics -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suryanshvermaa&theme=tokyonight#gh-dark-mode-only" alt="GitHub Profile Summary"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suryanshvermaa&theme=default#gh-light-mode-only" alt="GitHub Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suryanshvermaa&theme=tokyonight" alt="GitHub Profile Summary"/>
 </p>
+
+<!-- Productivity Stats -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suryanshvermaa&theme=tokyonight" height="180" alt="Most Commit Language"/>
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suryanshvermaa&theme=tokyonight" height="180" alt="Repos per Language"/>
+</p> 
 
 
 ## 🏅 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suryanshvermaa&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true#gh-dark-mode-only" />
-  <img src="https://github-profile-trophy.vercel.app/?username=suryanshvermaa&theme=flat&margin-w=15&margin-h=15&no-frame=true#gh-light-mode-only" />
+  <img src="https://github-profile-trophy.vercel.app/?username=suryanshvermaa&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true" />
 </p>
 
 ---
