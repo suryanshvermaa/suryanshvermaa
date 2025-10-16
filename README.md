@@ -26,8 +26,8 @@ Backend & Cloud Developer passionate about building scalable systems, microservi
 ## 📊 My GitHub Stats 
 
 <!-- First card centered -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=suryanshvermaa&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<p align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=suryanshvermaa&theme=tokyonight&hide_border=true" alt="GitHub Streak"/> 
 </p>
 
 <p align="center">
