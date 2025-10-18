@@ -6,11 +6,13 @@ Backend & Cloud Developer passionate about building scalable systems, microservi
 - 🤝 ***Open to:*** Collaborations on exciting projects and exploring new opportunities.
 
 ---
+
 ## 🎓 Education  
 
 - **B.Tech in Electrical Engineering** — NIT Patna (2023–2027) | *CGPA: 8.26*  
 - **Class XII (UP Board)** — 82.8%  
 - **Class X (UP Board)** — 86.17%
+
 ---
 
 ## 🚀 My Tech Stack  
@@ -25,24 +27,22 @@ Backend & Cloud Developer passionate about building scalable systems, microservi
 
 ## 📊 My GitHub Stats 
 
-<!-- First card centered -->
-<p align="center"> 
-  <img src="https://streak-stats.demolab.com?user=suryanshvermaa&theme=tokyonight&hide_border=true" alt="suryanshvermaa's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=suryanshvermaa&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="suryanshvermaa's GitHub Stats" />
-</p>
+<div align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:12px;margin:0 auto;">
+  <div style="flex:0 1 45%;min-width:260px;max-width:48%;display:flex;justify-content:center;">
+    <img src="https://streak-stats.demolab.com?user=suryanshvermaa&theme=tokyonight&hide_border=true" style="max-height:180px;width:100%;height:auto;object-fit:contain;" alt="GitHub Streak" />
+  </div>
+  <div style="flex:0 1 45%;min-width:260px;max-width:48%;display:flex;justify-content:center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=suryanshvermaa&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" style="max-height:180px;width:100%;height:auto;object-fit:contain;" alt="GitHub Stats" />
+  </div>
+  <div style="flex:0 1 45%;min-width:260px;max-width:48%;display:flex;justify-content:center;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suryanshvermaa&theme=tokyonight" style="max-height:180px;width:100%;height:auto;object-fit:contain;" alt="Most Commit Language" />
+  </div>
+  <div style="flex:0 1 45%;min-width:260px;max-width:48%;display:flex;justify-content:center;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suryanshvermaa&theme=tokyonight" style="max-height:180px;width:100%;height:auto;object-fit:contain;" alt="Repos per Language" />
+  </div>
+</div>
 
-<!-- GitHub Metrics -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suryanshvermaa&theme=tokyonight" alt="GitHub Profile Summary"/>
-</p>
-
-<!-- Productivity Stats -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suryanshvermaa&theme=tokyonight" height="180" alt="Most Commit Language"/>
-  &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suryanshvermaa&theme=tokyonight" height="180" alt="Repos per Language"/>
-</p> 
-
+---
 
 ## 🏅 GitHub Trophies  
 
@@ -58,8 +58,6 @@ Backend & Cloud Developer passionate about building scalable systems, microservi
   <b>Here are some of my best projects showcasing full-stack development, cloud deployments, and DevOps automation.</b>  
 </p>  
 
----
-
 ### 🚀 [SCS Cloud Platform](https://github.com/suryanshvermaa/scsCloud.git)  
 A full-stack **cloud platform** for hosting static websites and transcoding videos, built with a **microservices architecture** for scalability.  
 
@@ -69,8 +67,6 @@ A full-stack **cloud platform** for hosting static websites and transcoding vide
 
 **Tech Stack:**  
 <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb,docker,aws&perline=7" style="height: 35px;" />  
-
----
 
 ### 📱 Event Management App *(Private Repo)*  
 A **mobile-first web app** for managing events with authentication, search, and seamless UI.  
@@ -82,8 +78,6 @@ A **mobile-first web app** for managing events with authentication, search, and 
 **Tech Stack:**  
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&perline=4" style="height: 35px;" />  
 
----
-
 ### 🧠 [Hackslash Official Website](https://hackslashnitp.vercel.app)  
 Official **Hackslash Club** website – fast, responsive, and visually engaging with animations.  
 
@@ -92,9 +86,7 @@ Official **Hackslash Club** website – fast, responsive, and visually engaging 
 - 🚀 Improved engagement by **10%** with Framer Motion animations  
 
 **Tech Stack:**  
-<img src="https://skillicons.dev/icons?i=nextjs,tailwind&perline=2"  style="height: 35px;" />  
-
----
+<img src="https://skillicons.dev/icons?i=nextjs,tailwind&perline=2" style="height: 35px;" />  
 
 ### ⚙️ [Two-Tier Deployment](https://github.com/suryanshvermaa/Two-Tier-Nodejs-MongoDb-App-deployment.git)  
 A **scalable Node.js + MongoDB service** deployed using Kubernetes and GitOps.  
@@ -106,8 +98,6 @@ A **scalable Node.js + MongoDB service** deployed using Kubernetes and GitOps.
 **Tech Stack:**  
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,github&perline=4" style="height: 35px;" />  
 
----
-
 ### 🔧 [create-express-mongo-prod](https://github.com/suryanshvermaa/create-express-mongo-prod)
 A CLI tool to scaffold **production-ready Express.js apps** with modern tooling.  
 
@@ -117,8 +107,6 @@ A CLI tool to scaffold **production-ready Express.js apps** with modern tooling.
 
 **Tech Stack:**  
 <img src="https://skillicons.dev/icons?i=nodejs,ts,express,aws,docker,redis,kafka,graphql&perline=8" style="height: 35px;" />  
-
----
 
 ### 🔑 [jwt-auth-pack](https://www.npmjs.com/package/jwt-auth-pack)  
 A lightweight **JWT authentication middleware** for Express.js apps.  
@@ -132,7 +120,6 @@ A lightweight **JWT authentication middleware** for Express.js apps.
 
 ---
 
----
 ## 🏆 Achievements & Certifications  
 
 - 💻 **1000+ contributions** on GitHub and active in the open-source community.
@@ -140,5 +127,3 @@ A lightweight **JWT authentication middleware** for Express.js apps.
 - 📦 Authored and published **2 NPM packages** with over **300+ downloads**.
 - 🥇 Ranked in the **Top 5%** in NPTEL's *Joy of Computing with Python (IIT Madras)*.
 - 🚀 Co-organized the **ByteVerse Hackathon**, scaling to over **1000+ participants**.
-
----
