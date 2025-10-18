@@ -24,24 +24,31 @@ Backend & Cloud Developer passionate about building scalable systems, microservi
 </p>
 
 ---
+## 📊 My GitHub Stats  
 
-## 📊 My GitHub Stats 
+<div align="center">
 
-<div align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:12px;margin:0 auto;">
-  <div style="flex:0 1 45%;min-width:260px;max-width:48%;display:flex;justify-content:center;">
-    <img src="https://streak-stats.demolab.com?user=suryanshvermaa&theme=tokyonight&hide_border=true" style="max-height:180px;width:100%;height:auto;object-fit:contain;" alt="GitHub Streak" />
-  </div>
-  <div style="flex:0 1 45%;min-width:260px;max-width:48%;display:flex;justify-content:center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=suryanshvermaa&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" style="max-height:180px;width:100%;height:auto;object-fit:contain;" alt="GitHub Stats" />
-  </div>
-  <div style="flex:0 1 45%;min-width:260px;max-width:48%;display:flex;justify-content:center;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suryanshvermaa&theme=tokyonight" style="max-height:180px;width:100%;height:auto;object-fit:contain;" alt="Most Commit Language" />
-  </div>
-  <div style="flex:0 1 45%;min-width:260px;max-width:48%;display:flex;justify-content:center;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suryanshvermaa&theme=tokyonight" style="max-height:180px;width:100%;height:auto;object-fit:contain;" alt="Repos per Language" />
-  </div>
+  <!-- Row 1 -->
+  <img 
+    src="https://streak-stats.demolab.com?user=suryanshvermaa&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak" 
+    width="400" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=suryanshvermaa&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" 
+    alt="GitHub Stats" 
+    width="400" />
+
+  <!-- Row 2 -->
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suryanshvermaa&theme=tokyonight" 
+    alt="Most Commit Language" 
+    width="400" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suryanshvermaa&theme=tokyonight" 
+    alt="Repos per Language" 
+    width="400" />
+
 </div>
-
 ---
 
 ## 🏅 GitHub Trophies  
