@@ -138,7 +138,7 @@ A lightweight **JWT authentication middleware** for Express.js apps.
 ---
 ## 🏆 Achievements & Certifications  
 
-- 💻 **800+ contributions** on GitHub and active in the open-source community.
+- 💻 **1000+ contributions** on GitHub and active in the open-source community.
 - 🧠 Solved **250+ problems** on [LeetCode](https://leetcode.com/u/suryanshverma_1/) with a focus on algorithms and data structures.
 - 📦 Authored and published **2 NPM packages** with over **300+ downloads**.
 - 🥇 Ranked in the **Top 5%** in NPTEL's *Joy of Computing with Python (IIT Madras)*.
