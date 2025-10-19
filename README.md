@@ -75,7 +75,7 @@ A full-stack **cloud platform** for hosting static websites and transcoding vide
 **Tech Stack:**  
 <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb,docker,aws&perline=7" style="height: 35px;" />  
 
-### 📱 Event Management App *(Private Repo)*  
+### [📱 Event Management App](https://github.com/suryanshvermaa/eventManagementApp.git)  
 A **mobile-first web app** for managing events with authentication, search, and seamless UI.  
 
 - 🔐 OTP + JWT-based authentication  
@@ -115,17 +115,7 @@ A CLI tool to scaffold **production-ready Express.js apps** with modern tooling.
 **Tech Stack:**  
 <img src="https://skillicons.dev/icons?i=nodejs,ts,express,aws,docker,redis,kafka,graphql&perline=8" style="height: 35px;" />  
 
-### 🔑 [jwt-auth-pack](https://www.npmjs.com/package/jwt-auth-pack)  
-A lightweight **JWT authentication middleware** for Express.js apps.  
-
-- ⚡ Sub-millisecond authentication latency  
-- 🔑 Fully TypeScript compatible  
-- 🔧 Customizable token management  
-
-**Tech Stack:**  
-<img src="https://skillicons.dev/icons?i=nodejs,ts,express&perline=3" style="height: 35px;" />  
-
-### 🚀 [My Drogon App](https://github.com/suryanshvermaa/my-drogon-app)  
+### 🚀 [My Drogon App](https://github.com/suryanshvermaa/my-fastest-drogon-app-cpp.git)  
 A modern **C++ web application** built with the Drogon framework, featuring user management and todo management with PostgreSQL integration.  
 
 - 🔐 Complete authentication system with JWT tokens  
@@ -136,6 +126,16 @@ A modern **C++ web application** built with the Drogon framework, featuring user
 
 **Tech Stack:**  
 <img src="https://skillicons.dev/icons?i=cpp,postgres,docker&perline=3" style="height: 35px;" />  
+
+### 🔑 [jwt-auth-pack](https://www.npmjs.com/package/jwt-auth-pack)  
+A lightweight **JWT authentication middleware** for Express.js apps.  
+
+- ⚡ Sub-millisecond authentication latency  
+- 🔑 Fully TypeScript compatible  
+- 🔧 Customizable token management  
+
+**Tech Stack:**  
+<img src="https://skillicons.dev/icons?i=nodejs,ts,express&perline=3" style="height: 35px;" />  
 
 ---
 
