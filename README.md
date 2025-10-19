@@ -1,5 +1,5 @@
 ## 👋 About Me
-Backend & Cloud Developer passionate about building scalable systems, microservices, and DevOps solutions with Node.js, Golang, Docker, Kubernetes, and AWS.
+Backend & Cloud Developer passionate about building scalable systems, microservices, and DevOps solutions with Node.js, Golang, C++, Docker, Kubernetes, and AWS.
 
 - 🔭 ***Currently Exploring:*** Golang, Microservice Architecture and Generative AI.
 - 💡 ***Passionate About:*** Open-source collaboration, elegant system design, and creating impactful solutions.
@@ -124,6 +124,18 @@ A lightweight **JWT authentication middleware** for Express.js apps.
 
 **Tech Stack:**  
 <img src="https://skillicons.dev/icons?i=nodejs,ts,express&perline=3" style="height: 35px;" />  
+
+### 🚀 [My Drogon App](https://github.com/suryanshvermaa/my-drogon-app)  
+A modern **C++ web application** built with the Drogon framework, featuring user management and todo management with PostgreSQL integration.  
+
+- 🔐 Complete authentication system with JWT tokens  
+- 📝 RESTful API with user and todo management  
+- 🐘 PostgreSQL integration with ORM support  
+- 🐳 Docker support for easy containerized deployment  
+- ⚡ Built with modern C++17 standards  
+
+**Tech Stack:**  
+<img src="https://skillicons.dev/icons?i=cpp,postgres,docker&perline=3" style="height: 35px;" />  
 
 ---
 
