@@ -118,11 +118,14 @@ A CLI tool to scaffold **production-ready Express.js apps** with modern tooling.
 ### 🚀 [My Drogon App](https://github.com/suryanshvermaa/my-fastest-drogon-app-cpp.git)  
 A modern **C++ web application** built with the Drogon framework, featuring user management and todo management with PostgreSQL integration.  
 
-- 🔐 Complete authentication system with JWT tokens  
-- 📝 RESTful API with user and todo management  
-- 🐘 PostgreSQL integration with ORM support  
-- 🐳 Docker support for easy containerized deployment  
-- ⚡ Built with modern C++17 standards  
+- ⚙️ C++20 + Drogon Framework → ultra-low latency REST API
+- 🗄️ PostgreSQL + Drogon ORM → seamless database layer
+- 🔐 JWT (jwt-cpp) + bcrypt → secure authentication system
+- 🧩 Modular Middleware → CORS, auth filters, structured error handling
+- 🐳 Docker (multi-stage builds) + Docker Compose → portable and production-ready
+- ⚡ CI/CD Pipeline with Jenkins → automated testing and delivery
+- 🚢 GitOps-Ready with ArgoCD → declarative continuous deployment
+- ☸️ Kubernetes Manifests → Deployment, Service, Ingress, Secrets, PV/PVC
 
 **Tech Stack:**  
 <img src="https://skillicons.dev/icons?i=cpp,postgres,docker&perline=3" style="height: 35px;" />  
