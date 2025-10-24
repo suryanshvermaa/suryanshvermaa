@@ -128,7 +128,7 @@ A modern **C++ web application** built with the Drogon framework, featuring user
 - ☸️ Kubernetes Manifests → Deployment, Service, Ingress, Secrets, PV/PVC
 
 **Tech Stack:**  
-<img src="https://skillicons.dev/icons?i=cpp,postgres,docker&perline=3" style="height: 35px;" />  
+<img src="https://skillicons.dev/icons?i=cpp,postgres,docker,kubernetes,jenkins&perline=5" style="height: 35px;" />  
 
 ### 🔑 [jwt-auth-pack](https://www.npmjs.com/package/jwt-auth-pack)  
 A lightweight **JWT authentication middleware** for Express.js apps.  
