@@ -66,14 +66,21 @@ Backend & Cloud Developer passionate about building scalable systems, microservi
 </p>  
 
 ### 🚀 [SCS Cloud Platform](https://github.com/suryanshvermaa/scsCloud.git)  
-A full-stack **cloud platform** for hosting static websites and transcoding videos, built with a **microservices architecture** for scalability.  
+A full-stack **cloud‑native platform** for HLS transcoding, static hosting, object storage
 
-- ⚡ Reduced video processing time by **20%** using Docker + AWS ECS  
-- 🔒 Implemented **secure authentication** and **payment integration**  
-- 📩 Scalable **email notification system** with BullMQ  
+⚙️ What’s inside
+- 🎬 HLS video transcoding: FFmpeg-based multi-bitrate outputs (1080p/720p/480p/360p), stored on S3-compatible storage
+- 🌐 Static site hosting: Deploy React/Vite-type apps, subdomain proxying from API to S3 paths
+- 🗂️ Object storage: MinIO-powered object storage in Kubernetes with access keys + signed URL flows
+- 💳 Payments: Cashfree integration with SCS Coins crediting and usage-based deductions
+- 📬 Email notifications: BullMQ queues (Redis) for OTP, hosting lifecycle, transcoding, payments
+- 🤖 scs-bot assistant: Groq-powered helper with tool calls for quickstart snippets and guidance
+- 🗄️ Persistence: MongoDB for users, payments, hosted sites, and storage metadata
+- 🐳 Easy local dev: Docker Compose for DB/queue/worker + separate dev servers for API and frontend
+- ☸️ Cluster-ready: Kubernetes manifests (Kind + NGINX Ingress) for an end-to-end local or lab cluster
 
 **Tech Stack:**  
-<img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb,docker,aws&perline=7" style="height: 35px;" />  
+<img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb,docker,aws,kubernetes&perline=10" style="height: 35px;" />  
 
 ### [📱 Event Management App](https://github.com/suryanshvermaa/eventManagementApp.git)  
 A **mobile-first web app** for managing events with authentication, search, and seamless UI.  
