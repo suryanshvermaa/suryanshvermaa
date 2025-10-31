@@ -30,9 +30,9 @@ Backend & Cloud Developer passionate about building scalable systems, microservi
 
   <!-- Row 1 -->
   <img 
-    src="https://streak-stats.demolab.com?user=suryanshvermaa&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak" 
-    width="400" />
+  src="https://git-hub-streak-stats.vercel.app/?user=suryanshvermaa&theme=tokyonight&hide_border=true" 
+  alt="GitHub Streak" 
+  width="400" />
   <img 
     src="https://github-readme-stats.vercel.app/api?username=suryanshvermaa&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" 
     alt="GitHub Stats" 
