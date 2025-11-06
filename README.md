@@ -148,7 +148,7 @@ Lightweight **JWT middleware** for Express.js and TypeScript apps.
 
 📧 **Email:** [suryanshverma.dev.official@gmail.com](mailto:suryanshverma.dev.official@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/suryanshvermaa](https://linkedin.com/in/suryanshverma)  
-🌐 **Portfolio:** [suryanshverma.vercel.app](https://suryanshverma.vercel.app) 
+🌐 **Portfolio:** [suryanshverma.vercel.app](https://suryanshverma.vercel.app)  
 💬 Always open to collaborating on **cloud, backend, or open-source** projects!  
 
 ---
