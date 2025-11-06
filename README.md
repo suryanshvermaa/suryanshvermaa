@@ -1,21 +1,32 @@
-## 👋 About Me
-Backend & Cloud Developer passionate about building scalable systems, microservices, and DevOps solutions with Node.js, Golang, C++, Docker, Kubernetes, and AWS.
+# 👋 Hi, I'm **Suryansh Verma**
 
-- 🔭 ***Currently Exploring:*** Golang, Microservice Architecture and Generative AI.
-- 💡 ***Passionate About:*** Open-source collaboration, elegant system design, and creating impactful solutions.
-- 🤝 ***Open to:*** Collaborations on exciting projects and exploring new opportunities.
+### 💻 Full-Stack Developer | Cloud & DevOps Engineer | AWS | Docker | Kubernetes | Node.js | Golang  
+
+Welcome to my GitHub profile!  
+I’m **Suryansh Verma**, a **Full-Stack Developer and Cloud/DevOps Engineer** passionate about designing **scalable, distributed, and cloud-native systems** using **Node.js, Golang, C++, Docker, Kubernetes, and AWS**.  
+My mission is to build reliable and production-ready applications that combine **elegant backend design** with **robust cloud infrastructure**.
+
+---
+
+## 🚀 About Me  
+
+- 🔧 **Core Expertise:** Full-Stack Development, Cloud Computing, DevOps, Microservices & System Design  
+- 🔭 **Currently Exploring:** Golang, Microservice Architecture & Generative AI  
+- 💡 **Passionate About:** Open-source collaboration, system design, and creating developer-first tools  
+- 🤝 **Open To:** Collaborations on cloud, backend, or DevOps projects and internship opportunities  
 
 ---
 
 ## 🎓 Education  
 
-- **B.Tech in Electrical Engineering** — NIT Patna (2023–2027) | *CGPA: 8.26*  
-- **Class XII (UP Board)** — 82.8%  
-- **Class X (UP Board)** — 86.17%
+- 🎓 **B.Tech in Electrical Engineering** — *National Institute of Technology (NIT) Patna* (2023–2027)  
+  *CGPA: 8.26 / 10*  
+- 🏫 **Class XII (UP Board):** 82.8%  
+- 🏫 **Class X (UP Board):** 86.17%  
 
 ---
 
-## 🚀 My Tech Stack  
+## ⚙️ My Tech Stack  
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -23,32 +34,106 @@ Backend & Cloud Developer passionate about building scalable systems, microservi
   </a>
 </p>
 
+**Core Domains:**  
+- **Backend Development:** Node.js, Express.js, Golang, REST APIs, Microservices  
+- **Cloud & DevOps:** AWS (ECS, EKS, EC2, S3, IAM, Route 53, RDS), Docker, Kubernetes  
+- **CI/CD & Automation:** Jenkins, Terraform, GitOps (ArgoCD), Ansible  
+- **Databases:** MongoDB, Redis, PostgreSQL  
+- **Frontend Tools:** React, Next.js, TailwindCSS  
+
 ---
-## 📊 My GitHub Stats  
+
+## 🌩️ Featured Projects  
+
+### 🚀 [**SCS Cloud Platform**](https://github.com/suryanshvermaa/scsCloud.git)
+A **cloud-native platform** offering transcoding, static web hosting, and object storage — built for scalability and automation.  
+
+**Highlights:**  
+- 🎬 HLS Transcoding (FFmpeg multi-bitrate outputs)  
+- 🌐 Static Site Hosting for React/Vite projects  
+- ☸️ Kubernetes-ready deployment (NGINX Ingress + Kind)  
+- 💳 Payments with Cashfree API & Redis-based BullMQ queue  
+- 🤖 Integrated AI Assistant (Groq) for developer workflows  
+- 🐳 Docker Compose for local dev + Kubernetes for production  
+
+**Tech Stack:** React, Node.js, Express, MongoDB, Docker, AWS, Kubernetes  
+
+---
+
+### 📱 [**Event Management App**](https://github.com/suryanshvermaa/eventManagementApp.git)
+A mobile-first **event management platform** with OTP authentication and advanced event search.  
+
+- 🔐 OTP + JWT-based secure authentication  
+- 🔍 Fast, optimized search queries  
+- 📱 Fully responsive for mobile users  
+
+**Stack:** React, Node.js, Express, MongoDB  
+
+---
+
+### 🧠 [**Hackslash Official Website**](https://hackslashnitp.vercel.app)
+Official website of **Hackslash NIT Patna** — fast, animated, and community-driven.  
+- ⚡ Built using **Next.js, TailwindCSS & Framer Motion**  
+- 📈 Reduced navigation bounce rate by 15%  
+- 🚀 Improved engagement by 10%  
+
+---
+
+### ⚙️ [**Two-Tier Node.js & MongoDB Deployment**](https://github.com/suryanshvermaa/Two-Tier-Nodejs-MongoDb-App-deployment.git)
+A **highly scalable two-tier web service** using **Kubernetes, Docker, and AWS EKS**.  
+
+- 📦 15+ RESTful APIs  
+- 🔄 Automated CI/CD with Jenkins  
+- 🚀 GitOps-powered deployment using ArgoCD  
+
+---
+
+### 🔧 [**create-express-mongo-prod**](https://github.com/suryanshvermaa/create-express-mongo-prod)
+A CLI tool for scaffolding **production-ready Express.js apps**.  
+
+- 📦 Published on NPM — **300+ downloads**  
+- 🛠️ Includes Docker, ESLint, Prettier, Mongo integration  
+- ⚡ Setup new Node.js backends in minutes  
+
+---
+
+### ⚡ [**My Drogon App (C++)**](https://github.com/suryanshvermaa/my-fastest-drogon-app-cpp.git)
+Modern **C++ web app** built using the Drogon Framework + PostgreSQL.  
+
+- 🔐 JWT + bcrypt authentication  
+- 🧩 Modular middleware architecture  
+- ☸️ Jenkins CI/CD + Kubernetes deployment  
+
+---
+
+### 🔑 [**jwt-auth-pack**](https://www.npmjs.com/package/jwt-auth-pack)
+Lightweight **JWT middleware** for Express.js and TypeScript apps.  
+
+- ⚡ Sub-millisecond token validation  
+- 🔧 Plug-and-play integration  
+- 📦 NPM published  
+
+---
+
+## 🏆 Achievements & Certifications  
+
+- 💻 **1000+ GitHub Contributions**  
+- 🧠 Solved **250+ LeetCode problems** in Data Structures & Algorithms  
+- 📦 **2 Published NPM Packages** with 300+ downloads  
+- 🥇 **Top 5%** in *NPTEL – Joy of Computing with Python (IIT Madras)*  
+- 🚀 **Co-organizer** of ByteVerse Hackathon (1000+ participants)  
+
+---
+
+## 📊 GitHub Analytics  
 
 <div align="center">
-
-  <!-- Row 1 -->
-  <img 
-  src="https://git-hub-streak-stats.vercel.app/?user=suryanshvermaa&theme=tokyonight&hide_border=true" 
-  alt="GitHub Streak" 
-  width="400" />
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=suryanshvermaa&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" 
-    alt="GitHub Stats" 
-    width="400" />
-
-  <!-- Row 2 -->
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suryanshvermaa&theme=tokyonight" 
-    alt="Most Commit Language" 
-    width="400" />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suryanshvermaa&theme=tokyonight" 
-    alt="Repos per Language" 
-    width="400" />
-
+  <img src="https://git-hub-streak-stats.vercel.app/?user=suryanshvermaa&theme=tokyonight&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suryanshvermaa&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suryanshvermaa&theme=tokyonight" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suryanshvermaa&theme=tokyonight" width="400" />
 </div>
+
 ---
 
 ## 🏅 GitHub Trophies  
@@ -59,100 +144,37 @@ Backend & Cloud Developer passionate about building scalable systems, microservi
 
 ---
 
-## 📌 Featured Projects  
+## 📬 Connect With Me  
 
-<p align="center">  
-  <b>Here are some of my best projects showcasing full-stack development, cloud deployments, and DevOps automation.</b>  
-</p>  
-
-### 🚀 [SCS Cloud Platform](https://github.com/suryanshvermaa/scsCloud.git)  
-A full-stack **cloud‑native platform** for HLS transcoding, static hosting, object storage
-
-⚙️ What’s inside
-- 🎬 HLS video transcoding: FFmpeg-based multi-bitrate outputs (1080p/720p/480p/360p), stored on S3-compatible storage
-- 🌐 Static site hosting: Deploy React/Vite-type apps, subdomain proxying from API to S3 paths
-- 🗂️ Object storage: MinIO-powered object storage in Kubernetes with access keys + signed URL flows
-- 💳 Payments: Cashfree integration with SCS Coins crediting and usage-based deductions
-- 📬 Email notifications: BullMQ queues (Redis) for OTP, hosting lifecycle, transcoding, payments
-- 🤖 scs-bot assistant: Groq-powered helper with tool calls for quickstart snippets and guidance
-- 🗄️ Persistence: MongoDB for users, payments, hosted sites, and storage metadata
-- 🐳 Easy local dev: Docker Compose for DB/queue/worker + separate dev servers for API and frontend
-- ☸️ Cluster-ready: Kubernetes manifests (Kind + NGINX Ingress) for an end-to-end local or lab cluster
-
-**Tech Stack:**  
-<img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb,docker,aws,kubernetes&perline=10" style="height: 35px;" />  
-
-### [📱 Event Management App](https://github.com/suryanshvermaa/eventManagementApp.git)  
-A **mobile-first web app** for managing events with authentication, search, and seamless UI.  
-
-- 🔐 OTP + JWT-based authentication  
-- 🔍 Dynamic event search with optimized queries  
-- 📱 Designed for **responsive mobile experience**  
-
-**Tech Stack:**  
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&perline=4" style="height: 35px;" />  
-
-### 🧠 [Hackslash Official Website](https://hackslashnitp.vercel.app)  
-Official **Hackslash Club** website – fast, responsive, and visually engaging with animations.  
-
-- 🎨 Built with **Next.js + TailwindCSS**  
-- 📉 Reduced navigation bounce rate by **15%**  
-- 🚀 Improved engagement by **10%** with Framer Motion animations  
-
-**Tech Stack:**  
-<img src="https://skillicons.dev/icons?i=nextjs,tailwind&perline=2" style="height: 35px;" />  
-
-### ⚙️ [Two-Tier Deployment](https://github.com/suryanshvermaa/Two-Tier-Nodejs-MongoDb-App-deployment.git)  
-A **scalable Node.js + MongoDB service** deployed using Kubernetes and GitOps.  
-
-- 📦 Delivered **15+ REST API endpoints** containerized with Docker  
-- 🔄 Automated CI/CD with Jenkins → cut manual deployment by **90%**  
-- 🚀 Real-time GitOps deployments with ArgoCD  
-
-**Tech Stack:**  
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,github&perline=4" style="height: 35px;" />  
-
-### 🔧 [create-express-mongo-prod](https://github.com/suryanshvermaa/create-express-mongo-prod)
-A CLI tool to scaffold **production-ready Express.js apps** with modern tooling.  
-
-- 📦 Published on NPM → **300+ downloads**  
-- 🛠️ Built-in Docker support, ESLint, Prettier, and DB integrations  
-- ⚡ Accelerates backend project setup in minutes  
-
-**Tech Stack:**  
-<img src="https://skillicons.dev/icons?i=nodejs,ts,express,aws,docker,redis,kafka,graphql&perline=8" style="height: 35px;" />  
-
-### 🚀 [My Drogon App](https://github.com/suryanshvermaa/my-fastest-drogon-app-cpp.git)  
-A modern **C++ web application** built with the Drogon framework, featuring user management and todo management with PostgreSQL integration.  
-
-- ⚙️ C++20 + Drogon Framework → ultra-low latency REST API
-- 🗄️ PostgreSQL + Drogon ORM → seamless database layer
-- 🔐 JWT (jwt-cpp) + bcrypt → secure authentication system
-- 🧩 Modular Middleware → CORS, auth filters, structured error handling
-- 🐳 Docker (multi-stage builds) + Docker Compose → portable and production-ready
-- ⚡ CI/CD Pipeline with Jenkins → automated testing and delivery
-- 🚢 GitOps-Ready with ArgoCD → declarative continuous deployment
-- ☸️ Kubernetes Manifests → Deployment, Service, Ingress, Secrets, PV/PVC
-
-**Tech Stack:**  
-<img src="https://skillicons.dev/icons?i=cpp,postgres,docker,kubernetes,jenkins&perline=5" style="height: 35px;" />  
-
-### 🔑 [jwt-auth-pack](https://www.npmjs.com/package/jwt-auth-pack)  
-A lightweight **JWT authentication middleware** for Express.js apps.  
-
-- ⚡ Sub-millisecond authentication latency  
-- 🔑 Fully TypeScript compatible  
-- 🔧 Customizable token management  
-
-**Tech Stack:**  
-<img src="https://skillicons.dev/icons?i=nodejs,ts,express&perline=3" style="height: 35px;" />  
+📧 **Email:** [suryanshverma.dev.official@gmail.com](mailto:suryanshverma.dev.official@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/suryanshvermaa](https://linkedin.com/in/suryanshverma)  
+🌐 **Portfolio:** [suryanshverma.vercel.app](https://suryanshverma.vercel.app) 
+💬 Always open to collaborating on **cloud, backend, or open-source** projects!  
 
 ---
 
-## 🏆 Achievements & Certifications  
+<!-- 
+===============================================
+🔍 SEO SECTION (for Google & Recruiter Visibility)
+-----------------------------------------------
+These keywords and meta descriptions help search engines 
+(Google, Bing, etc.) and ATS systems recognize this GitHub profile 
+as belonging to "Suryansh Verma", a Full-Stack Developer & DevOps Engineer.  
+DO NOT REMOVE — essential for ranking and discoverability.
+===============================================
+-->
+## 🔍 SEO & Keyword Tags  
 
-- 💻 **1000+ contributions** on GitHub and active in the open-source community.
-- 🧠 Solved **250+ problems** on [LeetCode](https://leetcode.com/u/suryanshverma_1/) with a focus on algorithms and data structures.
-- 📦 Authored and published **2 NPM packages** with over **300+ downloads**.
-- 🥇 Ranked in the **Top 5%** in NPTEL's *Joy of Computing with Python (IIT Madras)*.
-- 🚀 Co-organized the **ByteVerse Hackathon**, scaling to over **1000+ participants**.
+`Suryansh Verma`, `Full-Stack Developer`, `Cloud Engineer`, `DevOps Engineer`, `Software Engineer`, `Backend Developer`, `Node.js`, `Golang`, `Docker`, `Kubernetes`, `AWS`, `MERN Developer`, `System Design`, `Microservices`, `NIT Patna`, `Open Source`, `SCS Cloud`, `Hackslash`, `ByteVerse`, `Cloud-Native Developer`
+
+---
+
+## 🧭 Meta Description (for SEO)  
+
+**Suryansh Verma** — Full-Stack Developer & Cloud/DevOps Engineer skilled in **Node.js, Golang, Docker, Kubernetes, AWS, and MERN Stack**.  
+Building scalable, cloud-native platforms and developer tools. Passionate about open-source, automation, and backend engineering.
+
+---
+
+⭐ **Thanks for visiting my profile!**  
+If you like my work, feel free to **⭐ star my repositories** or **connect on [LinkedIn](https://linkedin.com/in/suryanshvermaa)**.
