@@ -25,6 +25,33 @@ My mission is to build reliable and production-ready applications that combine *
 - 🏫 **Class X (UP Board):** 86.17%  
 
 ---
+## 📊 GitHub Analytics  
+
+<div align="center">
+  <img src="https://git-hub-streak-stats.vercel.app/?user=suryanshvermaa&theme=tokyonight&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suryanshvermaa&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suryanshvermaa&theme=tokyonight" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suryanshvermaa&theme=tokyonight" width="400" />
+</div>
+
+---
+
+## 🏅 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=suryanshvermaa&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true" />
+</p>
+
+---
+
+## 📬 Connect With Me  
+
+📧 **Email:** [suryanshverma.dev.official@gmail.com](mailto:suryanshverma.dev.official@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/suryanshvermaa](https://linkedin.com/in/suryanshverma)  
+🌐 **Portfolio:** [suryanshverma.vercel.app](https://suryanshverma.vercel.app)  
+💬 Always open to collaborating on **cloud, backend, or open-source** projects!  
+
+---
 
 ## ⚙️ My Tech Stack  
 
@@ -122,34 +149,6 @@ Lightweight **JWT middleware** for Express.js and TypeScript apps.
 - 📦 **2 Published NPM Packages** with 300+ downloads  
 - 🥇 **Top 5%** in *NPTEL – Joy of Computing with Python (IIT Madras)*  
 - 🚀 **Co-organizer** of ByteVerse Hackathon (1000+ participants)  
-
----
-
-## 📊 GitHub Analytics  
-
-<div align="center">
-  <img src="https://git-hub-streak-stats.vercel.app/?user=suryanshvermaa&theme=tokyonight&hide_border=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api?username=suryanshvermaa&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="400" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suryanshvermaa&theme=tokyonight" width="400" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suryanshvermaa&theme=tokyonight" width="400" />
-</div>
-
----
-
-## 🏅 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suryanshvermaa&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true" />
-</p>
-
----
-
-## 📬 Connect With Me  
-
-📧 **Email:** [suryanshverma.dev.official@gmail.com](mailto:suryanshverma.dev.official@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/suryanshvermaa](https://linkedin.com/in/suryanshverma)  
-🌐 **Portfolio:** [suryanshverma.vercel.app](https://suryanshverma.vercel.app)  
-💬 Always open to collaborating on **cloud, backend, or open-source** projects!  
 
 ---
 
