@@ -25,6 +25,16 @@ My mission is to build reliable and production-ready applications that combine *
 - 🏫 **Class X (UP Board):** 86.17%  
 
 ---
+## ⚙️ My Tech Stack  
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux,nodejs,express,mongodb,postgresql,redis,kafka,graphql,prisma,docker,kubernetes,aws,bash,go,java,c,cpp,figma,firebase,jenkins,nginx,github,postman,linux,supabase&perline=15" />
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Analytics  
 
 <div align="center">
@@ -52,14 +62,6 @@ My mission is to build reliable and production-ready applications that combine *
 💬 Always open to collaborating on **cloud, backend, or open-source** projects!  
 
 ---
-
-## ⚙️ My Tech Stack  
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux,nodejs,express,mongodb,postgresql,redis,kafka,graphql,prisma,docker,kubernetes,aws,bash,go,java,c,cpp,figma,firebase,jenkins,nginx,github,postman,linux,supabase&perline=15" />
-  </a>
-</p>
 
 **Core Domains:**  
 - **Backend Development:** Node.js, Express.js, Golang, REST APIs, Microservices  
