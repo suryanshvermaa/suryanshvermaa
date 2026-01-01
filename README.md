@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Suryansh Verma**
 
-### 💻 Full-Stack Developer | Cloud & DevOps Engineer | AWS | Docker | Kubernetes | Node.js | Golang  
+### 💻 Full-Stack Developer | Cloud & DevOps Engineer | System Design | AWS | Docker | Kubernetes | Node.js | Golang 
 
 Welcome to my GitHub profile!  
 I’m **Suryansh Verma**, a **Full-Stack Developer and Cloud/DevOps Engineer** passionate about designing **scalable, distributed, and cloud-native systems** using **Node.js, Golang, C++, Docker, Kubernetes, and AWS**.  
@@ -87,6 +87,3 @@ Modern **C++ web app** built using the Drogon Framework + PostgreSQL.
 - 🚀 **Co-organizer** of ByteVerse Hackathon (1000+ participants)  
 
 ---
-
-⭐ **Thanks for visiting my profile!**  
-If you like my work, feel free to **⭐ star my repositories** or **connect on [LinkedIn](https://linkedin.com/in/suryanshvermaa)**.
