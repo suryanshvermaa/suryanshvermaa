@@ -21,15 +21,8 @@ I’m **Suryansh Verma**, a **Full-Stack Developer and Cloud/DevOps Engineer** p
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=suryanshvermaa&theme=merko&hide_border=false" width="400" />
 </div>
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=suryanshvermaa&limit=5&theme=merko&combine_all_yearly_contributions=true" width="400" />
-</div>
 
 ---
-## LeetCode Stats
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/suryanshverma_1?theme=dark&font=Inter&ext=heatmap" width="600"/>
 
 ## 📬 Connect With Me  
 
