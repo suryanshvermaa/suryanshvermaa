@@ -26,6 +26,10 @@ I’m **Suryansh Verma**, a **Full-Stack Developer and Cloud/DevOps Engineer** p
 </div>
 
 ---
+## LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/suryanshverma_1?theme=dark&font=Inter&ext=heatmap" width="600"/>
 
 ## 📬 Connect With Me  
 
