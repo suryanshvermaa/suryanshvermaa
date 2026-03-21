@@ -10,12 +10,12 @@ I’m **Suryansh Verma**, a **Backend Developer and Cloud/DevOps Engineer** pass
 
 | Area | Skills |
 |---|---|
-| 👨‍💻 Languages | <img height="36" src="https://skillicons.dev/icons?i=js,ts,go,java,c,cpp,md&perline=12" /> |
-| 🖥️ Frontend | <img height="36" src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,redux&perline=12" /> |
-| 🧠 Backend | <img height="36" src="https://skillicons.dev/icons?i=nodejs,express,graphql,prisma,nginx,firebase,go&perline=12" /> |
-| 🗄️ Databases & Messaging | <img height="36" src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,kafka,supabase&perline=12" /> |
-| ☁️ Cloud & DevOps | <img height="36" src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,bash,linux,github&perline=12" /> |
-| 🧰 Tools | <img height="36" src="https://skillicons.dev/icons?i=cmake,postman,figma,pnpm&perline=12" /> |
+| 👨‍💻 Languages | <img src="https://skillicons.dev/icons?i=js,ts,go,java,c,cpp,md&perline=12" /> |
+| 🖥️ Frontend | <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,redux&perline=12" /> |
+| 🧠 Backend | <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,prisma,nginx,firebase,go&perline=12" /> |
+| 🗄️ Databases & Messaging | <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,kafka,supabase&perline=12" /> |
+| ☁️ Cloud & DevOps | <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,bash,linux,github&perline=12" /> |
+| 🧰 Tools | <img src="https://skillicons.dev/icons?i=cmake,postman,figma,pnpm&perline=12" /> |
 
 ---
 
