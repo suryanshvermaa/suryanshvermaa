@@ -6,9 +6,6 @@
 Welcome to my GitHub profile!  
 I’m **Suryansh Verma**, a **Backend Developer and Cloud/DevOps Engineer** passionate about building **scalable, distributed, cloud-native systems** using **Node.js, Golang, C++, Docker, Kubernetes, and AWS**.
 
-<div align="center">
-  <img src="assets/divider-wave-green.svg" width="100%" alt="" />
-</div>
 ## ⚙️ My Tech Stack  
 
 | Area | Skills |
@@ -20,10 +17,6 @@ I’m **Suryansh Verma**, a **Backend Developer and Cloud/DevOps Engineer** pass
 | ☁️ Cloud & DevOps | <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,bash,linux,github&perline=12" /> |
 | 🧰 Tools | <img src="https://skillicons.dev/icons?i=cmake,postman,figma,pnpm&perline=12" /> |
 
-<div align="center">
-  <img src="assets/divider-wave-green.svg" width="100%" alt="" />
-</div>
-
 ## 📊 GitHub Analytics  
 
 <div align="center">
@@ -31,9 +24,6 @@ I’m **Suryansh Verma**, a **Backend Developer and Cloud/DevOps Engineer** pass
   <img src="https://github-readme-stats.vercel.app/api?username=suryanshvermaa&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=22D3EE&text_color=E2E8F0&icon_color=A78BFA" width="340" />
 </div>
 
-<div align="center">
-  <img src="assets/divider-wave-green.svg" width="100%" alt="" />
-</div>
 
 ## 📬 Connect With Me  
 
@@ -42,10 +32,6 @@ I’m **Suryansh Verma**, a **Backend Developer and Cloud/DevOps Engineer** pass
 🌐 **Portfolio:** [suryanshverma.vercel.app](https://suryanshverma.vercel.app)  
 💻 **LeetCode:** [leetcode.com/suryanshvermaa](https://leetcode.com/suryanshverma_1) 
 </br>💬 Always open to collaborating on **cloud, backend, or open-source** projects!  
-
-<div align="center">
-  <img src="assets/divider-wave-green.svg" width="100%" alt="" />
-</div>
 
 ## 🌩️ Featured Projects
 
