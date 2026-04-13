@@ -1,11 +1,14 @@
-# 👋 Hi, I'm **Suryansh Verma**
-
-### 💻 Backend Developer | Cloud & DevOps Engineer | System Design | AWS | Docker | Kubernetes | Node.js | Golang
+<div align="center">
+  <img src="assets/hero-green.svg" width="100%" alt="Suryansh Verma" />
+  <img src="assets/badge-row-green.svg" width="100%" alt="Quick links" />
+</div>
 
 Welcome to my GitHub profile!  
-I’m **Suryansh Verma**, a **Backend Developer and Cloud/DevOps Engineer** passionate about designing **scalable, distributed, and cloud-native systems** using **Node.js, Golang, C++, Docker, Kubernetes, and AWS**.  
+I’m **Suryansh Verma**, a **Backend Developer and Cloud/DevOps Engineer** passionate about building **scalable, distributed, cloud-native systems** using **Node.js, Golang, C++, Docker, Kubernetes, and AWS**.
 
----
+<div align="center">
+  <img src="assets/divider-wave-green.svg" width="100%" alt="" />
+</div>
 ## ⚙️ My Tech Stack  
 
 | Area | Skills |
@@ -17,17 +20,20 @@ I’m **Suryansh Verma**, a **Backend Developer and Cloud/DevOps Engineer** pass
 | ☁️ Cloud & DevOps | <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,bash,linux,github&perline=12" /> |
 | 🧰 Tools | <img src="https://skillicons.dev/icons?i=cmake,postman,figma,pnpm&perline=12" /> |
 
----
+<div align="center">
+  <img src="assets/divider-wave-green.svg" width="100%" alt="" />
+</div>
 
 ## 📊 GitHub Analytics  
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=suryanshvermaa&theme=merko&hide_border=false" width="340" />
-  <img src="https://github-readme-stats.vercel.app/api?username=suryanshvermaa&show_icons=true&theme=merko&hide_border=false" width="340" />
-</div>
+  <img src="https://streak-stats.demolab.com?user=suryanshvermaa&hide_border=true&background=0B0F14&ring=22D3EE&fire=A78BFA&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B" width="340" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suryanshvermaa&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=22D3EE&text_color=E2E8F0&icon_color=A78BFA" width="340" />
 </div>
 
----
+<div align="center">
+  <img src="assets/divider-wave-green.svg" width="100%" alt="" />
+</div>
 
 ## 📬 Connect With Me  
 
@@ -37,7 +43,9 @@ I’m **Suryansh Verma**, a **Backend Developer and Cloud/DevOps Engineer** pass
 💻 **LeetCode:** [leetcode.com/suryanshvermaa](https://leetcode.com/suryanshverma_1) 
 </br>💬 Always open to collaborating on **cloud, backend, or open-source** projects!  
 
----
+<div align="center">
+  <img src="assets/divider-wave-green.svg" width="100%" alt="" />
+</div>
 
 ## 🌩️ Featured Projects
 
@@ -97,4 +105,6 @@ I’m **Suryansh Verma**, a **Backend Developer and Cloud/DevOps Engineer** pass
 ## 🏆 Certifications  
 - 🏅 **AWS Educate – Compute (EC2)** Certified ([Credentials](https://www.credly.com/badges/7d2a02d2-b7e3-46f3-a9b8-2b252d97ff45/public_url))
 - 🏅 **AWS Educate – Storage (S3)** Certified ([Credentials](https://www.credly.com/badges/d0c49231-ebf8-461d-8396-11e6cf878013/public_url))
----
+<div align="center">
+  <img src="assets/divider-wave-green.svg" width="100%" alt="" />
+</div>

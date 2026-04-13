@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140" preserveAspectRatio="none" role="img" aria-label="Futuristic background">
+  <defs>
+    <pattern id="hex" width="52" height="45" patternUnits="userSpaceOnUse">
+      <path d="M13 2 L39 2 L52 22.5 L39 43 L13 43 L0 22.5 Z" fill="none" stroke="#22c55e" stroke-opacity="0.10" stroke-width="1"/>
+      <circle cx="13" cy="2" r="1" fill="#06b6d4" opacity="0.14"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#22c55e" stop-opacity="0.0"/>
+      <stop offset="0.5" stop-color="#06b6d4" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#22c55e" stop-opacity="0.0"/>
+    </linearGradient>
+    <pattern id="scan" width="6" height="6" patternUnits="userSpaceOnUse">
+      <rect width="6" height="1" fill="#e6fff0" opacity="0.02"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="140" fill="url(#hex)"/>
+  <rect width="1200" height="140" fill="url(#fade)"/>
+  <rect width="1200" height="140" fill="url(#scan)"/>
+</svg>
