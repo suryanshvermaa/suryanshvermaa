@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" preserveAspectRatio="none" role="img" aria-label="Section divider">
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#22c55e"/>
-      <stop offset="1" stop-color="#06b6d4"/>
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#a78bfa"/>
     </linearGradient>
     <filter id="softGlow" x="-20%" y="-80%" width="140%" height="260%">
       <feGaussianBlur stdDeviation="2" result="b"/>
@@ -23,7 +23,7 @@
   <path d="M0,70 C150,36 280,106 445,72 C610,38 740,18 920,44 C1060,64 1135,98 1200,62" fill="none" stroke="url(#g)" stroke-width="6" stroke-linecap="round" filter="url(#softGlow)"/>
   <path d="M0,92 C165,58 290,120 470,88 C650,56 770,36 950,60 C1088,78 1150,110 1200,84" fill="none" stroke="url(#g)" stroke-width="2" stroke-linecap="round" opacity="0.50"/>
 
-  <g fill="#06b6d4" opacity="0.28">
+  <g fill="#a78bfa" opacity="0.28">
     <circle cx="180" cy="44" r="3"/>
     <circle cx="610" cy="32" r="3"/>
     <circle cx="980" cy="52" r="3"/>
