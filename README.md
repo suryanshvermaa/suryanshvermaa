@@ -17,13 +17,16 @@ I’m **Suryansh Verma**, a **Backend Developer and Cloud/DevOps Engineer** pass
 | ☁️ Cloud & DevOps | <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,bash,linux,github&perline=12" /> |
 | 🧰 Tools | <img src="https://skillicons.dev/icons?i=cmake,postman,figma,pnpm&perline=12" /> |
 
-## 📊 GitHub Analytics  
+## 📊 GitHub & LeetCode Stats  
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=suryanshvermaa&hide_border=true&background=0B0F14&ring=22D3EE&fire=A78BFA&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B" width="340" />
   <img src="https://github-readme-stats.vercel.app/api?username=suryanshvermaa&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=22D3EE&text_color=E2E8F0&icon_color=A78BFA" width="340" />
 </div>
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/suryanshverma_1?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats"/>
+</p>
 
 ## 📬 Connect With Me  
 
