@@ -1,8 +1,4 @@
 # Hi, I'm Suryansh Verma 👋
-<div align="center">
-<img  src="./lottie.gif" />
-</div>
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&center=true&width=800&lines=Full+Stack+Developer;Cloud+Native+Developer;DevOps+Enthusiast)
 
 
