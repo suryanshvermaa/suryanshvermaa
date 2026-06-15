@@ -12,7 +12,7 @@ I enjoy learning new technologies and exploring tech.
 - 🛠️ Exploring cloud infrastructure, CI/CD, and platform engineering
 - ⚡ Fun fact: I spend more time optimizing deployments than writing code 😆
 
-📫 [LinkedIn](https://linkedin.com/in/suryanshverma) • [Portfolio](https://suryanshverma.vercel.app) • [LeetCode](https://leetcode.com/suryanshverma)
+📫 [LinkedIn](https://linkedin.com/in/suryanshverma) • [Portfolio](https://suryanshverma.vercel.app) • [LeetCode](https://leetcode.com/suryanshverma_1)
 
 
 # Languages And Tools
