@@ -22,14 +22,22 @@ I enjoy learning new technologies and exploring tech.
 
 <p align="center">
 	<a href="https://git.io/awesome-stats-card">
-		<img src="https://awesome-github-stats.azurewebsites.net/user-stats/suryanshvermaa?cardType=level&theme=dark&fontFamily=&preferLogin=false" alt="My Awesome Stats" />
+		<picture>
+			<source media="(prefers-color-scheme: dark)" srcset="https://awesome-github-stats.azurewebsites.net/user-stats/suryanshvermaa?cardType=level&theme=dark&fontFamily=&preferLogin=false" />
+			<source media="(prefers-color-scheme: light)" srcset="https://awesome-github-stats.azurewebsites.net/user-stats/suryanshvermaa?cardType=level&theme=github&fontFamily=&preferLogin=false" />
+			<img src="https://awesome-github-stats.azurewebsites.net/user-stats/suryanshvermaa?cardType=level&theme=github&fontFamily=&preferLogin=false" alt="My Awesome Stats" />
+		</picture>
 	</a>
 </p>
 
 # Leetcode
 
 <p align="center">
-	<img src="https://leetcard.jacoblin.cool/suryanshverma_1?theme=dark&font=Roboto&ext=contest" alt="LeetCode Stats" />
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/suryanshverma_1?theme=dark&font=Roboto&ext=contest" />
+		<source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/suryanshverma_1?theme=light&font=Roboto&ext=contest" />
+		<img src="https://leetcard.jacoblin.cool/suryanshverma_1?theme=light&font=Roboto&ext=contest" alt="LeetCode Stats" />
+	</picture>
 </p>
 
 ---
