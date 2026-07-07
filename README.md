@@ -18,4 +18,18 @@ I enjoy learning new technologies and exploring tech.
 # Languages And Tools
 [![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,aws,linux,bash,github,jenkins,kafka,redis,javascript,typescript,react,nextjs,nodejs,expressjs,go,cpp,mongodb,postgres,pnpm&perline=10)](https://skillicons.dev)
 
+# Github Stats
+
+<p align="center">
+	<a href="https://git.io/awesome-stats-card">
+		<img src="https://awesome-github-stats.azurewebsites.net/user-stats/suryanshvermaa?cardType=level&theme=dark&fontFamily=&preferLogin=false" alt="My Awesome Stats" />
+	</a>
+</p>
+
+# Leetcode
+
+<p align="center">
+	<img src="https://leetcard.jacoblin.cool/suryanshverma_1?theme=dark&font=Roboto&ext=contest" alt="LeetCode Stats" />
+</p>
+
 ---
