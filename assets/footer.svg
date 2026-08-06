@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="170" viewBox="0 0 1000 170" role="img" aria-label="footer">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#0d1117" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#050709"/>
+    </linearGradient>
+    <linearGradient id="w1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00ff9c" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0.16"/>
+    </linearGradient>
+    <linearGradient id="w2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#00ff9c" stop-opacity="0.10"/>
+    </linearGradient>
+    <clipPath id="fclip"><rect width="1000" height="170" rx="14"/></clipPath>
+  </defs>
+
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+  </style>
+
+  <g clip-path="url(#fclip)">
+    <rect width="1000" height="170" fill="url(#fbg)"/>
+
+    <g>
+      <path fill="url(#w2)"
+            d="M0,110 Q125,74 250,110 T500,110 T750,110 T1000,110 T1250,110 T1500,110 T1750,110 T2000,110 V170 H0 Z">
+        <animateTransform attributeName="transform" type="translate"
+                          values="-1000 0; 0 0" dur="11s" repeatCount="indefinite"/>
+      </path>
+    </g>
+    <g>
+      <path fill="url(#w1)"
+            d="M0,124 Q125,152 250,124 T500,124 T750,124 T1000,124 T1250,124 T1500,124 T1750,124 T2000,124 V170 H0 Z">
+        <animateTransform attributeName="transform" type="translate"
+                          values="0 0; -1000 0" dur="7s" repeatCount="indefinite"/>
+      </path>
+    </g>
+
+    <text class="mono" x="500" y="52" font-size="18" text-anchor="middle" fill="#7d8590">
+      <tspan fill="#00ff9c">➜</tspan> ~ thanks for stopping by
+    </text>
+    <text class="mono" x="500" y="84" font-size="15" text-anchor="middle" fill="#3d444d">
+      process finished with exit code 0
+    </text>
+    <rect x="656" y="72" width="9" height="15" fill="#00ff9c">
+      <animate attributeName="opacity" dur="1s" repeatCount="indefinite" calcMode="discrete" values="1;0" keyTimes="0;0.5"/>
+    </rect>
+  </g>
+</svg>
