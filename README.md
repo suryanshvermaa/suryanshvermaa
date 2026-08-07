@@ -97,24 +97,18 @@
 **Languages**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://skillicons.dev/icons?i=go,typescript,javascript,cpp,bash&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=go,typescript,javascript,cpp,bash&theme=light" />
   <img src="https://skillicons.dev/icons?i=go,typescript,javascript,cpp,bash&theme=dark" alt="Languages" />
 </picture>
 
 **Backend & Data**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://skillicons.dev/icons?i=nodejs,expressjs,nextjs,react,mongodb,postgres,redis,kafka&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,expressjs,nextjs,react,mongodb,postgres,redis,kafka&theme=light" />
   <img src="https://skillicons.dev/icons?i=nodejs,expressjs,nextjs,react,mongodb,postgres,redis,kafka&theme=dark" alt="Backend and data" />
 </picture>
 
 **Cloud, DevOps & Tooling**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,git,github,pnpm&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,git,github,pnpm&theme=light" />
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,git,github,pnpm&theme=dark" alt="Cloud and DevOps" />
 </picture>
 
