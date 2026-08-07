@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="28" viewBox="0 0 1000 28" role="img" aria-label="divider">
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#1a7f37" stop-opacity="0"/>
+      <stop offset="20%"  stop-color="#1a7f37" stop-opacity="0.6"/>
+      <stop offset="50%"  stop-color="#0e7490" stop-opacity="0.8"/>
+      <stop offset="80%"  stop-color="#1a7f37" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#1a7f37" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="dotGlow" x="-300%" y="-300%" width="700%" height="700%">
+      <feGaussianBlur stdDeviation="2.4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <line x1="0" y1="14" x2="1000" y2="14" stroke="url(#line)" stroke-width="2"/>
+
+  <line x1="0" y1="14" x2="1000" y2="14" stroke="#0e7490" stroke-width="2"
+        stroke-opacity="0.45" stroke-dasharray="10 14">
+    <animate attributeName="stroke-dashoffset" from="48" to="0" dur="1.6s" repeatCount="indefinite"/>
+  </line>
+
+  <g filter="url(#dotGlow)">
+    <circle cx="0" cy="14" r="4" fill="#1a7f37">
+      <animate attributeName="cx" values="30;970;30" dur="7s" repeatCount="indefinite"
+               calcMode="spline" keyTimes="0;0.5;1"
+               keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+    </circle>
+  </g>
+
+  <polygon points="500,6 508,14 500,22 492,14" fill="#ffffff" stroke="#1a7f37" stroke-opacity="0.75">
+    <animateTransform attributeName="transform" type="rotate"
+                      from="0 500 14" to="360 500 14" dur="9s" repeatCount="indefinite"/>
+  </polygon>
+</svg>

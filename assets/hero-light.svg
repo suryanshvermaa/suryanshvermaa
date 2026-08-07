@@ -1,0 +1,178 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-label="Suryansh Verma — Backend and Cloud-Native Developer">
+  <title>Suryansh Verma — Backend &amp; Cloud-Native Developer</title>
+
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="55%" stop-color="#f9fbfd"/>
+      <stop offset="100%" stop-color="#eef2f6"/>
+    </linearGradient>
+
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#1a7f37" stop-opacity="0"/>
+      <stop offset="45%"  stop-color="#1a7f37" stop-opacity="0.9"/>
+      <stop offset="55%"  stop-color="#0e7490" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#0e7490" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="scanGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#1a7f37" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#1a7f37" stop-opacity="0.07"/>
+      <stop offset="100%" stop-color="#1a7f37" stop-opacity="0"/>
+    </linearGradient>
+
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#1a7f37" stroke-opacity="0.10" stroke-width="1"/>
+    </pattern>
+
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="3.2" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <clipPath id="card">
+      <rect x="1" y="1" width="998" height="278" rx="14"/>
+    </clipPath>
+
+    <clipPath id="clipA" clipPathUnits="userSpaceOnUse">
+      <rect x="60" y="128" height="46" width="499">
+        <animate attributeName="width" dur="12s" repeatCount="indefinite"
+                 values="0;499;499" keyTimes="0;0.117;1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clipB" clipPathUnits="userSpaceOnUse">
+      <rect x="60" y="128" height="46" width="0">
+        <animate attributeName="width" dur="12s" repeatCount="indefinite"
+                 values="0;0;468;468" keyTimes="0;0.3333;0.45;1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clipC" clipPathUnits="userSpaceOnUse">
+      <rect x="60" y="128" height="46" width="0">
+        <animate attributeName="width" dur="12s" repeatCount="indefinite"
+                 values="0;0;577;577" keyTimes="0;0.6667;0.7833;1"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .dim  { fill: #57606a; }
+    .grn  { fill: #1a7f37; }
+    .cyn  { fill: #0e7490; }
+    .wht  { fill: #1f2328; }
+  </style>
+
+  <g clip-path="url(#card)">
+    <rect width="1000" height="280" fill="url(#bgGrad)"/>
+
+    <!-- drifting grid -->
+    <g opacity="0.9">
+      <rect x="-60" y="-60" width="1120" height="400" fill="url(#grid)">
+        <animateTransform attributeName="transform" type="translate"
+                          from="0 0" to="40 40" dur="7s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <!-- ambient corner glows -->
+    <circle cx="60" cy="250" r="150" fill="#1a7f37" opacity="0.08" filter="url(#glow)">
+      <animate attributeName="opacity" values="0.05;0.11;0.05" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="950" cy="30" r="150" fill="#0e7490" opacity="0.08" filter="url(#glow)">
+      <animate attributeName="opacity" values="0.10;0.04;0.10" dur="6s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- travelling scanline -->
+    <rect x="0" y="-70" width="1000" height="70" fill="url(#scanGrad)">
+      <animateTransform attributeName="transform" type="translate"
+                        values="0 0; 0 360" dur="5.5s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- title bar -->
+    <rect x="1" y="1" width="998" height="42" fill="#f0f3f6" opacity="0.95"/>
+    <line x1="0" y1="43" x2="1000" y2="43" stroke="#1a7f37" stroke-opacity="0.25"/>
+    <circle cx="28" cy="22" r="6" fill="#ff5f57"/>
+    <circle cx="50" cy="22" r="6" fill="#febc2e"/>
+    <circle cx="72" cy="22" r="6" fill="#28c840">
+      <animate attributeName="fill-opacity" values="1;0.35;1" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <text class="mono dim" x="500" y="27" font-size="14" text-anchor="middle">
+      suryansh@cloud-native: ~/dev — zsh
+    </text>
+
+    <!-- command line -->
+    <text class="mono" x="60" y="86" font-size="19">
+      <tspan class="grn">➜</tspan><tspan class="dim"> ~ </tspan><tspan class="wht">whoami</tspan><tspan class="dim"> --role</tspan>
+    </text>
+
+    <!-- typed phrase 1 -->
+    <g opacity="1">
+      <animate attributeName="opacity" dur="12s" repeatCount="indefinite" calcMode="discrete"
+               values="1;0;0" keyTimes="0;0.3333;0.6667"/>
+      <g clip-path="url(#clipA)">
+        <text class="mono cyn" x="60" y="160" font-size="26">Backend &amp; Cloud-Native Developer</text>
+      </g>
+      <rect y="136" width="13" height="30" fill="#1a7f37" x="60">
+        <animate attributeName="x" dur="12s" repeatCount="indefinite" values="60;559;559" keyTimes="0;0.117;1"/>
+        <animate attributeName="opacity" dur="1s" repeatCount="indefinite" calcMode="discrete" values="1;0" keyTimes="0;0.5"/>
+      </rect>
+    </g>
+
+    <!-- typed phrase 2 -->
+    <g opacity="0">
+      <animate attributeName="opacity" dur="12s" repeatCount="indefinite" calcMode="discrete"
+               values="0;1;0" keyTimes="0;0.3333;0.6667"/>
+      <g clip-path="url(#clipB)">
+        <text class="mono cyn" x="60" y="160" font-size="26">DevOps | Kubernetes | AWS | Go</text>
+      </g>
+      <rect y="136" width="13" height="30" fill="#1a7f37" x="60">
+        <animate attributeName="x" dur="12s" repeatCount="indefinite" values="60;60;528;528" keyTimes="0;0.3333;0.45;1"/>
+        <animate attributeName="opacity" dur="1s" repeatCount="indefinite" calcMode="discrete" values="1;0" keyTimes="0;0.5"/>
+      </rect>
+    </g>
+
+    <!-- typed phrase 3 -->
+    <g opacity="0">
+      <animate attributeName="opacity" dur="12s" repeatCount="indefinite" calcMode="discrete"
+               values="0;0;1" keyTimes="0;0.3333;0.6667"/>
+      <g clip-path="url(#clipC)">
+        <text class="mono cyn" x="60" y="160" font-size="26">Building platforms, tools &amp; pipelines</text>
+      </g>
+      <rect y="136" width="13" height="30" fill="#1a7f37" x="60">
+        <animate attributeName="x" dur="12s" repeatCount="indefinite" values="60;60;637;637" keyTimes="0;0.6667;0.7833;1"/>
+        <animate attributeName="opacity" dur="1s" repeatCount="indefinite" calcMode="discrete" values="1;0" keyTimes="0;0.5"/>
+      </rect>
+    </g>
+
+    <!-- status chips -->
+    <g class="mono" font-size="15">
+      <g opacity="1">
+        <animate attributeName="opacity" from="0" to="1" dur="0.7s" begin="0.4s" fill="freeze"/>
+        <text class="grn" x="60"  y="222">◆</text><text class="dim" x="78"  y="222">India</text>
+      </g>
+      <g opacity="1">
+        <animate attributeName="opacity" from="0" to="1" dur="0.7s" begin="0.7s" fill="freeze"/>
+        <text class="grn" x="168" y="222">◆</text><text class="dim" x="186" y="222">Distributed Systems</text>
+      </g>
+      <g opacity="1">
+        <animate attributeName="opacity" from="0" to="1" dur="0.7s" begin="1.0s" fill="freeze"/>
+        <text class="grn" x="368" y="222">◆</text><text class="dim" x="386" y="222">Open Source</text>
+      </g>
+      <g opacity="1">
+        <animate attributeName="opacity" from="0" to="1" dur="0.7s" begin="1.3s" fill="freeze"/>
+        <text class="grn" x="518" y="222">◆</text><text class="dim" x="536" y="222">Always shipping</text>
+      </g>
+    </g>
+
+    <!-- bottom accent rail -->
+    <rect x="0" y="272" width="1000" height="3" fill="#1a7f37" opacity="0.15"/>
+    <rect x="-320" y="271" width="320" height="4" fill="url(#sweep)">
+      <animateTransform attributeName="transform" type="translate"
+                        values="0 0; 1330 0" dur="4.5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <rect x="1" y="1" width="998" height="278" rx="14" fill="none" stroke="#1a7f37" stroke-opacity="0.35"/>
+</svg>
